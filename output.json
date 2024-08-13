@@ -1,14 +1,5 @@
 [
     {
-        "file": "/hive/in/sourcemapper-1/_next/static/chunks/main-d70dd72c9e67765b.js",
-        "vulnerabilities": [
-            {
-                "nextjs 12.3.4 has known vulnerabilities": "severity: low",
-                "summary": "Next.js missing cache-control header may lead to CDN caching empty reply, CVE: CVE-2023-46298, githubID: GHSA-c59h-r6p8-q9wc"
-            }
-        ]
-    },
-    {
         "file": "/hive/in/sourcemapper-1/https:/cdn.getshogun.com/5/global-assets-6bd818efea8f371768a5b897ef30fedbd16be661.js",
         "vulnerabilities": [
             {
