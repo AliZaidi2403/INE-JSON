@@ -1,0 +1,742 @@
+[
+    {
+        "domain": "legacy-community.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "security.ine.com",
+        "port": "8080"
+    },
+    {
+        "domain": "assets.labs.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "content-api.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "business2.staging.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "port": "2095"
+    },
+    {
+        "domain": "business2.development.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "port": "2095"
+    },
+    {
+        "domain": "learn.ine.com",
+        "port": "8080"
+    },
+    {
+        "domain": "shop.ine.com",
+        "port": "8880"
+    },
+    {
+        "domain": "content-api.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "security.ine.com",
+        "port": "2082"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "racks.ine.com",
+        "port": "9443"
+    },
+    {
+        "domain": "business2.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "bootcamps.ine.com",
+        "port": "8080"
+    },
+    {
+        "domain": "dashboard.development.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "port": "2096"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "shop.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "media1.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "admin.showcase.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "bootcamps.ine.com",
+        "port": "8880"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "port": "8880"
+    },
+    {
+        "domain": "info.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "port": "8443"
+    },
+    {
+        "domain": "learn.ine.com",
+        "port": "2082"
+    },
+    {
+        "domain": "releases.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "api.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "racks.ine.com",
+        "port": "3333"
+    },
+    {
+        "domain": "subscriptions.development.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "shop.ine.com",
+        "port": "2096"
+    },
+    {
+        "domain": "streaming.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "uaa.development.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "www2.ine.com",
+        "port": "2095"
+    },
+    {
+        "domain": "community.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "pritunl.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard2.development.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "www.showcase.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "profiles.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "port": "8080"
+    },
+    {
+        "domain": "learn.ine.com",
+        "port": "2096"
+    },
+    {
+        "domain": "security.ine.com",
+        "port": "2096"
+    },
+    {
+        "domain": "www2.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "info.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "port": "2095"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "status.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "my.development.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "bootcamps.ine.com",
+        "port": "2096"
+    },
+    {
+        "domain": "helpdesk.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "try.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "www2.ine.com",
+        "port": "2082"
+    },
+    {
+        "domain": "my.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "rentals.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "forums.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "events.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard.development.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "showcase.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "www2.ine.com",
+        "port": "8880"
+    },
+    {
+        "domain": "uaa.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "rancher.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "media1.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "www2.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "racks2.ine.com",
+        "port": "9443"
+    },
+    {
+        "domain": "dashboard2.development.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "port": "8880"
+    },
+    {
+        "domain": "dashboard.staging.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "inedid.az.demos.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "workbooks.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "my.development.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "certs.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "assets.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "bootcamps.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "events.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "profiles.assets.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "members.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "rentals.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "blog.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "feedback.my.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "shop.ine.com",
+        "port": "2082"
+    },
+    {
+        "domain": "subscriptions.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "helpdesk.serviceportal.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "inedid.az.demos.ine.com",
+        "port": "8172"
+    },
+    {
+        "domain": "inedid.az.demos.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "shop.ine.com",
+        "port": "8080"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "uaa.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "subscriptions.development.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "learn.ine.com",
+        "port": "8443"
+    },
+    {
+        "domain": "auth.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "rancher.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "bootcamps.ine.com",
+        "port": "2095"
+    },
+    {
+        "domain": "pritunl.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "streaming.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "admin.showcase.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "www2.ine.com",
+        "port": "8080"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "auth.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "bootcamps.ine.com",
+        "port": "2082"
+    },
+    {
+        "domain": "get.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "courses.assets.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "racks2.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "members.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "forum.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "helpdesk.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "port": "8880"
+    },
+    {
+        "domain": "feedback.my.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "clicks.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "workbooks.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "1pass-scim.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "racks.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "business2.development.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "port": "8443"
+    },
+    {
+        "domain": "checkout.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "www2.ine.com",
+        "port": "8443"
+    },
+    {
+        "domain": "courses.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "business2.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "racks.ine.com",
+        "port": "8443"
+    },
+    {
+        "domain": "shop.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "business2.staging.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.staging.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "security.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "try.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "compliance.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "port": "2082"
+    },
+    {
+        "domain": "security.ine.com",
+        "port": "2095"
+    },
+    {
+        "domain": "uaa.development.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "certs.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "community.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "racks2.ine.com",
+        "port": "3333"
+    },
+    {
+        "domain": "bootcamps.ine.com",
+        "port": "8443"
+    },
+    {
+        "domain": "courses.assets.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "bid47mj.45160067m.email.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "releases.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "careers.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "www2.ine.com",
+        "port": "2096"
+    },
+    {
+        "domain": "legacy-community.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "careers.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "profiles.assets.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "assets.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "port": "8080"
+    },
+    {
+        "domain": "api.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "port": "2096"
+    },
+    {
+        "domain": "1pass-scim.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "port": "8880"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "port": "2082"
+    },
+    {
+        "domain": "www.showcase.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "courses.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "my.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "forum.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "shop.ine.com",
+        "port": "2095"
+    },
+    {
+        "domain": "racks2.ine.com",
+        "port": "8443"
+    },
+    {
+        "domain": "shop.ine.com",
+        "port": "8443"
+    },
+    {
+        "domain": "showcase.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "bootcamps.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "get.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "helpdesk.serviceportal.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "chef01.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "forums.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "port": "8443"
+    },
+    {
+        "domain": "clicks.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "compliance.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "subscriptions.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "checkout.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "chef01.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "profiles.ine.com",
+        "port": "443"
+    },
+    {
+        "domain": "assets.labs.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "status.ine.com",
+        "port": "80"
+    },
+    {
+        "domain": "ine.com",
+        "port": "80"
+    }
+]
