@@ -10,7 +10,7 @@
                     "https://blog.jquery.com/2020/04/10/jquery-3-5-0-released/ severity": "medium"
                 }
             ],
-            "domain": ""
+            "domain": "cdn.getshogun.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/checkout.ine.com/js/chunk-vendors.06c9f919.js",
@@ -21,7 +21,7 @@
                     "https://github.com/advisories/ghsa-wf5p-g6vw-rhxx https://nvd.nist.gov/vuln/detail/cve-2023-45857 https://github.com/axios/axios/issues/6006 https://github.com/axios/axios/issues/6022 https://github.com/axios/axios/pull/6028 https://github.com/axios/axios/commit/96ee232bd3ee4de2e657333d4d2191cd389e14d0 https://github.com/axios/axios/releases/tag/v1.6.0 https://security.snyk.io/vuln/snyk-js-axios-6032459 severity": "medium"
                 }
             ],
-            "domain": ""
+            "domain": "checkout.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/content.ine.com/js/chunk-vendors.chunk-vendors.0f534003.js",
@@ -32,7 +32,7 @@
                     "https://github.com/advisories/ghsa-wf5p-g6vw-rhxx https://nvd.nist.gov/vuln/detail/cve-2023-45857 https://github.com/axios/axios/issues/6006 https://github.com/axios/axios/issues/6022 https://github.com/axios/axios/pull/6028 https://github.com/axios/axios/commit/96ee232bd3ee4de2e657333d4d2191cd389e14d0 https://github.com/axios/axios/releases/tag/v1.6.0 https://security.snyk.io/vuln/snyk-js-axios-6032459 severity": "medium"
                 }
             ],
-            "domain": ""
+            "domain": "content.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/my.ine.com/js/chunk-vendors.56d7dcc3.js",
@@ -43,7 +43,7 @@
                     "https://github.com/advisories/ghsa-29mw-wpgm-hmr9 https://nvd.nist.gov/vuln/detail/cve-2020-28500 https://github.com/lodash/lodash/pull/5065 https://github.com/lodash/lodash/pull/5065/commits/02906b8191d3c100c193fe6f7b27d1c40f200bb7 https://github.com/lodash/lodash/commit/c4847ebe7d14540bb28a8b932a9ce1b9ecbfee1a https://cert-portal.siemens.com/productcert/pdf/ssa-637483.pdf https://github.com/lodash/lodash https://github.com/lodash/lodash/blob/npm/trimend.js%23l8 https://security.netapp.com/advisory/ntap-20210312-0006/ https://snyk.io/vuln/snyk-java-orgfujionwebjars-1074896 https://snyk.io/vuln/snyk-java-orgwebjars-1074894 https://snyk.io/vuln/snyk-java-orgwebjarsbower-1074892 https://snyk.io/vuln/snyk-java-orgwebjarsbowergithublodash-1074895 https://snyk.io/vuln/snyk-java-orgwebjarsnpm-1074893 https://snyk.io/vuln/snyk-js-lodash-1018905 https://www.oracle.com//security-alerts/cpujul2021.html https://www.oracle.com/security-alerts/cpujan2022.html https://www.oracle.com/security-alerts/cpujul2022.html https://www.oracle.com/security-alerts/cpuoct2021.html severity": "high"
                 }
             ],
-            "domain": ""
+            "domain": "my.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/dashboard.development.ine.com/static/js/2.117c1b11.chunk.js",
@@ -54,7 +54,7 @@
                     "https://github.com/moment/moment/security/advisories/ghsa-8hfj-j24r-96c4 severity": "high"
                 }
             ],
-            "domain": ""
+            "domain": "dashboard.development.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/dashboard.development.ine.com/static/js/2.117c1b11.chunk.js",
@@ -65,7 +65,7 @@
                     "https://github.com/advisories/ghsa-wf5p-g6vw-rhxx https://nvd.nist.gov/vuln/detail/cve-2023-45857 https://github.com/axios/axios/issues/6006 https://github.com/axios/axios/issues/6022 https://github.com/axios/axios/pull/6028 https://github.com/axios/axios/commit/96ee232bd3ee4de2e657333d4d2191cd389e14d0 https://github.com/axios/axios/releases/tag/v1.6.0 https://security.snyk.io/vuln/snyk-js-axios-6032459 severity": "medium"
                 }
             ],
-            "domain": ""
+            "domain": "dashboard.development.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/dashboard.development.ine.com/static/js/2.117c1b11.chunk.js",
@@ -75,7 +75,7 @@
                     "summary": "ReDoS Vulnerability in ua-parser-js version, CVE: CVE-2022-25927, githubID: GHSA-fhg7-m89q-25r3"
                 }
             ],
-            "domain": ""
+            "domain": "dashboard.development.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/dashboard.ine.com/static/js/2.9b66a5c9.chunk.js",
@@ -86,7 +86,7 @@
                     "https://github.com/moment/moment/security/advisories/ghsa-8hfj-j24r-96c4 severity": "high"
                 }
             ],
-            "domain": ""
+            "domain": "dashboard.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/dashboard.ine.com/static/js/2.9b66a5c9.chunk.js",
@@ -97,7 +97,7 @@
                     "https://github.com/advisories/ghsa-wf5p-g6vw-rhxx https://nvd.nist.gov/vuln/detail/cve-2023-45857 https://github.com/axios/axios/issues/6006 https://github.com/axios/axios/issues/6022 https://github.com/axios/axios/pull/6028 https://github.com/axios/axios/commit/96ee232bd3ee4de2e657333d4d2191cd389e14d0 https://github.com/axios/axios/releases/tag/v1.6.0 https://security.snyk.io/vuln/snyk-js-axios-6032459 severity": "medium"
                 }
             ],
-            "domain": ""
+            "domain": "dashboard.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/dashboard.ine.com/static/js/2.9b66a5c9.chunk.js",
@@ -107,39 +107,7 @@
                     "summary": "ReDoS Vulnerability in ua-parser-js version, CVE: CVE-2022-25927, githubID: GHSA-fhg7-m89q-25r3"
                 }
             ],
-            "domain": ""
-        },
-        {
-            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
-            "vulnerabilities": [
-                {
-                    "moment.js 2.29.1 has known vulnerabilities": "severity: high",
-                    "summary": "Regular Expression Denial of Service (ReDoS), Affecting moment package, versions >=2.18.0 <2.29.4, CVE: CVE-2022-31129 CVE-2023-22467, githubID: GHSA-wc69-rhjr-hc9g",
-                    "https://github.com/moment/moment/security/advisories/ghsa-8hfj-j24r-96c4 severity": "high"
-                }
-            ],
-            "domain": ""
-        },
-        {
-            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
-            "vulnerabilities": [
-                {
-                    "axios 0.21.4 has known vulnerabilities": "severity: medium",
-                    "summary": "Versions before 1.6.8 depends on follow-redirects before 1.15.6 which could leak the proxy authentication credentials, PR: 6300",
-                    "https://github.com/advisories/ghsa-wf5p-g6vw-rhxx https://nvd.nist.gov/vuln/detail/cve-2023-45857 https://github.com/axios/axios/issues/6006 https://github.com/axios/axios/issues/6022 https://github.com/axios/axios/pull/6028 https://github.com/axios/axios/commit/96ee232bd3ee4de2e657333d4d2191cd389e14d0 https://github.com/axios/axios/releases/tag/v1.6.0 https://security.snyk.io/vuln/snyk-js-axios-6032459 severity": "medium"
-                }
-            ],
-            "domain": ""
-        },
-        {
-            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
-            "vulnerabilities": [
-                {
-                    "ua-parser-js 0.7.31 has known vulnerabilities": "severity: high",
-                    "summary": "ReDoS Vulnerability in ua-parser-js version, CVE: CVE-2022-25927, githubID: GHSA-fhg7-m89q-25r3"
-                }
-            ],
-            "domain": ""
+            "domain": "dashboard.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/dashboard2.development.ine.com/static/js/2.19388ebe.chunk.js",
@@ -150,7 +118,7 @@
                     "https://github.com/moment/moment/security/advisories/ghsa-8hfj-j24r-96c4 severity": "high"
                 }
             ],
-            "domain": ""
+            "domain": "dashboard2.development.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/dashboard2.development.ine.com/static/js/2.19388ebe.chunk.js",
@@ -161,7 +129,7 @@
                     "https://github.com/advisories/ghsa-wf5p-g6vw-rhxx https://nvd.nist.gov/vuln/detail/cve-2023-45857 https://github.com/axios/axios/issues/6006 https://github.com/axios/axios/issues/6022 https://github.com/axios/axios/pull/6028 https://github.com/axios/axios/commit/96ee232bd3ee4de2e657333d4d2191cd389e14d0 https://github.com/axios/axios/releases/tag/v1.6.0 https://security.snyk.io/vuln/snyk-js-axios-6032459 severity": "medium"
                 }
             ],
-            "domain": ""
+            "domain": "dashboard2.development.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/dashboard2.development.ine.com/static/js/2.19388ebe.chunk.js",
@@ -171,7 +139,39 @@
                     "summary": "ReDoS Vulnerability in ua-parser-js version, CVE: CVE-2022-25927, githubID: GHSA-fhg7-m89q-25r3"
                 }
             ],
-            "domain": ""
+            "domain": "dashboard2.development.ine.com"
+        },
+        {
+            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
+            "vulnerabilities": [
+                {
+                    "moment.js 2.29.1 has known vulnerabilities": "severity: high",
+                    "summary": "Regular Expression Denial of Service (ReDoS), Affecting moment package, versions >=2.18.0 <2.29.4, CVE: CVE-2022-31129 CVE-2023-22467, githubID: GHSA-wc69-rhjr-hc9g",
+                    "https://github.com/moment/moment/security/advisories/ghsa-8hfj-j24r-96c4 severity": "high"
+                }
+            ],
+            "domain": "dashboard.staging.ine.com"
+        },
+        {
+            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
+            "vulnerabilities": [
+                {
+                    "axios 0.21.4 has known vulnerabilities": "severity: medium",
+                    "summary": "Versions before 1.6.8 depends on follow-redirects before 1.15.6 which could leak the proxy authentication credentials, PR: 6300",
+                    "https://github.com/advisories/ghsa-wf5p-g6vw-rhxx https://nvd.nist.gov/vuln/detail/cve-2023-45857 https://github.com/axios/axios/issues/6006 https://github.com/axios/axios/issues/6022 https://github.com/axios/axios/pull/6028 https://github.com/axios/axios/commit/96ee232bd3ee4de2e657333d4d2191cd389e14d0 https://github.com/axios/axios/releases/tag/v1.6.0 https://security.snyk.io/vuln/snyk-js-axios-6032459 severity": "medium"
+                }
+            ],
+            "domain": "dashboard.staging.ine.com"
+        },
+        {
+            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
+            "vulnerabilities": [
+                {
+                    "ua-parser-js 0.7.31 has known vulnerabilities": "severity: high",
+                    "summary": "ReDoS Vulnerability in ua-parser-js version, CVE: CVE-2022-25927, githubID: GHSA-fhg7-m89q-25r3"
+                }
+            ],
+            "domain": "dashboard.staging.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/ine.com/_next/static/chunks/main-d70dd72c9e67765b.js",
@@ -181,7 +181,7 @@
                     "summary": "Next.js missing cache-control header may lead to CDN caching empty reply, CVE: CVE-2023-46298, githubID: GHSA-c59h-r6p8-q9wc"
                 }
             ],
-            "domain": ""
+            "domain": "ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js",
@@ -191,7 +191,7 @@
                     "summary": "Bootstrap before 4.0.0 is end-of-life and no longer maintained., retid: 72"
                 }
             ],
-            "domain": ""
+            "domain": "maxcdn.bootstrapcdn.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/www.ine.com/_next/static/chunks/main-d70dd72c9e67765b.js",
@@ -201,7 +201,7 @@
                     "summary": "Next.js missing cache-control header may lead to CDN caching empty reply, CVE: CVE-2023-46298, githubID: GHSA-c59h-r6p8-q9wc"
                 }
             ],
-            "domain": ""
+            "domain": "ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js",
@@ -212,7 +212,7 @@
                     "https://blog.jquery.com/2020/04/10/jquery-3-5-0-released/ severity": "medium"
                 }
             ],
-            "domain": ""
+            "domain": "cdnjs.cloudflare.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/learn.ine.com/hs-fs/hub/45160067/hub_generated/template_assets/160887125778/1711042970730/GDD_V3_Light/js/ui.min.js",
@@ -222,7 +222,7 @@
                     "summary": "XSS when refreshing a checkboxradio with an HTML-like initial text label , CVE: CVE-2022-31160, issue: 2101, githubID: GHSA-h6gj-6jjq-h8g9"
                 }
             ],
-            "domain": ""
+            "domain": "learn.ine.com"
         }
     ]
 }
