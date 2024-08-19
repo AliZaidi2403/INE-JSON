@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "domain": "my.ine.com/favicon.ico",
+        "port": 200,
+        "length": 14360
+    },
+    {
+        "domain": "my.ine.com/robots.txt",
+        "port": 200,
+        "length": 207
+    },
+    {
+        "domain": "my.ine.com/sitemap.xml",
+        "port": 200,
+        "length": 156159
+    },
+    {
+        "domain": "my.ine.com/robots.txt",
+        "port": 200,
+        "length": 207
+    }
+]
