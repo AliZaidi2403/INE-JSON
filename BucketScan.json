@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "domain": "my.staging.ine.com",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                ""
+            ]
+        }
+    },
+    {
+        "domain": "ine-vegas",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                ""
+            ]
+        }
+    },
+    {
+        "domain": "api.ine.com",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                ""
+            ]
+        }
+    },
+    {
+        "domain": "my-staging.ine.com",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                "ReadACP"
+            ]
+        }
+    },
+    {
+        "domain": "my.ine.com",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                ""
+            ]
+        }
+    },
+    {
+        "domain": "inedev-subscriptions",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                ""
+            ]
+        }
+    }
+]
