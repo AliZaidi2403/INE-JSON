@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "domain": "inedev-uaa",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                ""
+            ]
+        }
+    },
+    {
+        "domain": "ine-profiles",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                ""
+            ]
+        }
+    },
+    {
+        "domain": "inedev-subscriptions",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                ""
+            ]
+        }
+    },
+    {
+        "domain": "inedev-profiles",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                "Read"
+            ]
+        }
+    },
+    {
+        "domain": "assets-ine-com",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                ""
+            ]
+        }
+    }
+]
