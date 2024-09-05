@@ -1,6 +1,18 @@
 [
     {
-        "domain": "inedev-subscriptions",
+        "domain": "inedev-profiles",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                "Read"
+            ]
+        }
+    },
+    {
+        "domain": "ine-profiles",
         "bucket_exists": true,
         "Users": {
             "AuthUsers": [
@@ -24,18 +36,6 @@
         }
     },
     {
-        "domain": "ine-profiles",
-        "bucket_exists": true,
-        "Users": {
-            "AuthUsers": [
-                ""
-            ],
-            "AllUsers": [
-                ""
-            ]
-        }
-    },
-    {
         "domain": "assets-ine-com",
         "bucket_exists": true,
         "Users": {
@@ -48,14 +48,14 @@
         }
     },
     {
-        "domain": "inedev-profiles",
+        "domain": "inedev-subscriptions",
         "bucket_exists": true,
         "Users": {
             "AuthUsers": [
                 ""
             ],
             "AllUsers": [
-                "Read"
+                ""
             ]
         }
     }
