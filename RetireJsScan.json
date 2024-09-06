@@ -35,7 +35,7 @@
             "domain": "my.ine.com"
         },
         {
-            "file": "/hive/in/sourcemapper-1/https:/dashboard.development.ine.com/static/js/2.84c39284.chunk.js",
+            "file": "/hive/in/sourcemapper-1/https:/dashboard.development.ine.com/static/js/2.356fb008.chunk.js",
             "vulnerabilities": [
                 {
                     "moment.js 2.29.1 has known vulnerabilities": "severity: high",
@@ -46,7 +46,7 @@
             "domain": "dashboard.development.ine.com"
         },
         {
-            "file": "/hive/in/sourcemapper-1/https:/dashboard.development.ine.com/static/js/2.84c39284.chunk.js",
+            "file": "/hive/in/sourcemapper-1/https:/dashboard.development.ine.com/static/js/2.356fb008.chunk.js",
             "vulnerabilities": [
                 {
                     "axios 0.21.4 has known vulnerabilities": "severity: medium",
@@ -57,7 +57,7 @@
             "domain": "dashboard.development.ine.com"
         },
         {
-            "file": "/hive/in/sourcemapper-1/https:/dashboard.development.ine.com/static/js/2.84c39284.chunk.js",
+            "file": "/hive/in/sourcemapper-1/https:/dashboard.development.ine.com/static/js/2.356fb008.chunk.js",
             "vulnerabilities": [
                 {
                     "ua-parser-js 0.7.31 has known vulnerabilities": "severity: high",
