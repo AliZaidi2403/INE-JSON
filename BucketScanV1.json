@@ -1,29 +1,5 @@
 [
     {
-        "domain": "inedev-profiles",
-        "bucket_exists": true,
-        "Users": {
-            "AuthUsers": [
-                ""
-            ],
-            "AllUsers": [
-                "Read"
-            ]
-        }
-    },
-    {
-        "domain": "ine-profiles",
-        "bucket_exists": true,
-        "Users": {
-            "AuthUsers": [
-                ""
-            ],
-            "AllUsers": [
-                ""
-            ]
-        }
-    },
-    {
         "domain": "inedev-uaa",
         "bucket_exists": true,
         "Users": {
@@ -32,6 +8,30 @@
             ],
             "AllUsers": [
                 ""
+            ]
+        }
+    },
+    {
+        "domain": "inedev-subscriptions",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                ""
+            ]
+        }
+    },
+    {
+        "domain": "inedev-profiles",
+        "bucket_exists": true,
+        "Users": {
+            "AuthUsers": [
+                ""
+            ],
+            "AllUsers": [
+                "Read"
             ]
         }
     },
@@ -48,7 +48,7 @@
         }
     },
     {
-        "domain": "inedev-subscriptions",
+        "domain": "ine-profiles",
         "bucket_exists": true,
         "Users": {
             "AuthUsers": [
