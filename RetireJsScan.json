@@ -99,38 +99,6 @@
             "domain": "dashboard.ine.com"
         },
         {
-            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
-            "vulnerabilities": [
-                {
-                    "moment.js 2.29.1 has known vulnerabilities": "severity: high",
-                    "summary": "Regular Expression Denial of Service (ReDoS), Affecting moment package, versions >=2.18.0 <2.29.4, CVE: CVE-2022-31129 CVE-2023-22467, githubID: GHSA-wc69-rhjr-hc9g",
-                    "https://github.com/moment/moment/security/advisories/ghsa-8hfj-j24r-96c4 severity": "high"
-                }
-            ],
-            "domain": "dashboard.staging.ine.com"
-        },
-        {
-            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
-            "vulnerabilities": [
-                {
-                    "axios 0.21.4 has known vulnerabilities": "severity: medium",
-                    "summary": "Versions before 1.6.8 depends on follow-redirects before 1.15.6 which could leak the proxy authentication credentials, PR: 6300",
-                    "https://github.com/advisories/ghsa-wf5p-g6vw-rhxx https://nvd.nist.gov/vuln/detail/cve-2023-45857 https://github.com/axios/axios/issues/6006 https://github.com/axios/axios/issues/6022 https://github.com/axios/axios/pull/6028 https://github.com/axios/axios/commit/96ee232bd3ee4de2e657333d4d2191cd389e14d0 https://github.com/axios/axios/releases/tag/v1.6.0 https://security.snyk.io/vuln/snyk-js-axios-6032459 severity": "medium"
-                }
-            ],
-            "domain": "dashboard.staging.ine.com"
-        },
-        {
-            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
-            "vulnerabilities": [
-                {
-                    "ua-parser-js 0.7.31 has known vulnerabilities": "severity: high",
-                    "summary": "ReDoS Vulnerability in ua-parser-js version, CVE: CVE-2022-25927, githubID: GHSA-fhg7-m89q-25r3"
-                }
-            ],
-            "domain": "dashboard.staging.ine.com"
-        },
-        {
             "file": "/hive/in/sourcemapper-1/https:/dashboard2.development.ine.com/static/js/2.19388ebe.chunk.js",
             "vulnerabilities": [
                 {
@@ -161,6 +129,38 @@
                 }
             ],
             "domain": "dashboard2.development.ine.com"
+        },
+        {
+            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
+            "vulnerabilities": [
+                {
+                    "moment.js 2.29.1 has known vulnerabilities": "severity: high",
+                    "summary": "Regular Expression Denial of Service (ReDoS), Affecting moment package, versions >=2.18.0 <2.29.4, CVE: CVE-2022-31129 CVE-2023-22467, githubID: GHSA-wc69-rhjr-hc9g",
+                    "https://github.com/moment/moment/security/advisories/ghsa-8hfj-j24r-96c4 severity": "high"
+                }
+            ],
+            "domain": "dashboard.staging.ine.com"
+        },
+        {
+            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
+            "vulnerabilities": [
+                {
+                    "axios 0.21.4 has known vulnerabilities": "severity: medium",
+                    "summary": "Versions before 1.6.8 depends on follow-redirects before 1.15.6 which could leak the proxy authentication credentials, PR: 6300",
+                    "https://github.com/advisories/ghsa-wf5p-g6vw-rhxx https://nvd.nist.gov/vuln/detail/cve-2023-45857 https://github.com/axios/axios/issues/6006 https://github.com/axios/axios/issues/6022 https://github.com/axios/axios/pull/6028 https://github.com/axios/axios/commit/96ee232bd3ee4de2e657333d4d2191cd389e14d0 https://github.com/axios/axios/releases/tag/v1.6.0 https://security.snyk.io/vuln/snyk-js-axios-6032459 severity": "medium"
+                }
+            ],
+            "domain": "dashboard.staging.ine.com"
+        },
+        {
+            "file": "/hive/in/sourcemapper-1/https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
+            "vulnerabilities": [
+                {
+                    "ua-parser-js 0.7.31 has known vulnerabilities": "severity: high",
+                    "summary": "ReDoS Vulnerability in ua-parser-js version, CVE: CVE-2022-25927, githubID: GHSA-fhg7-m89q-25r3"
+                }
+            ],
+            "domain": "dashboard.staging.ine.com"
         },
         {
             "file": "/hive/in/sourcemapper-1/https:/ine.com/_next/static/chunks/main-d70dd72c9e67765b.js",
