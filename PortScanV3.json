@@ -1,654 +1,2292 @@
 [
     {
+        "domain": "racks.ine.com",
+        "ip": "24.172.112.44",
+        "port": "9443"
+    },
+    {
+        "domain": "community.ine.com",
+        "ip": "54.235.172.9",
+        "port": "443"
+    },
+    {
+        "domain": "helpdesk.serviceportal.ine.com",
+        "ip": "54.230.18.123",
+        "port": "80"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.217.119.24",
+        "port": "443"
+    },
+    {
         "domain": "s3.www.ine.com",
+        "ip": "52.216.52.32",
+        "port": "443"
+    },
+    {
+        "domain": "my.development.ine.com",
+        "ip": "3.160.5.62",
+        "port": "443"
+    },
+    {
+        "domain": "checkout.ine.com",
+        "ip": "108.156.91.51",
+        "port": "443"
+    },
+    {
+        "domain": "subscriptions.development.ine.com",
+        "ip": "107.20.253.245",
+        "port": "80"
+    },
+    {
+        "domain": "subscriptions.ine.com",
+        "ip": "54.84.99.182",
+        "port": "443"
+    },
+    {
+        "domain": "clicks.ine.com",
+        "ip": "18.172.134.98",
+        "port": "443"
+    },
+    {
+        "domain": "certs.ine.com",
+        "ip": "3.139.180.21",
+        "port": "80"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "54.231.139.120",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard.development.ine.com",
+        "ip": "76.76.21.98",
+        "port": "80"
+    },
+    {
+        "domain": "calendar.ine.com",
+        "ip": "172.217.1.115",
+        "port": "80"
+    },
+    {
+        "domain": "subscriptions.ine.com",
+        "ip": "54.198.92.195",
+        "port": "443"
+    },
+    {
+        "domain": "forum.ine.com",
+        "ip": "162.159.128.79",
+        "port": "80"
+    },
+    {
+        "domain": "helpdesk.ine.com",
+        "ip": "3.165.181.29",
+        "port": "80"
+    },
+    {
+        "domain": "helpdesk.serviceportal.ine.com",
+        "ip": "54.230.18.119",
+        "port": "80"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "ip": "23.227.38.74",
+        "port": "8080"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "34.237.38.233",
+        "port": "80"
+    },
+    {
+        "domain": "assets.labs.ine.com",
+        "ip": "108.156.245.92",
+        "port": "80"
+    },
+    {
+        "domain": "assets.ine.com",
+        "ip": "52.85.247.119",
         "port": "80"
     },
     {
         "domain": "courses.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "dashboard2.development.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "careers.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "inedid.az.demos.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "security.ine.com",
-        "port": "2096"
-    },
-    {
-        "domain": "subscriptions.development.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "learn.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "get.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "assets.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "my.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "security.ine.com",
-        "port": "8080"
-    },
-    {
-        "domain": "business2.development.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "subscriptions.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "courses.assets.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "uaa.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "www.showcase.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "mail.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "updates.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "racks.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "racks.ine.com",
-        "port": "8443"
-    },
-    {
-        "domain": "business2.staging.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "racks2.ine.com",
-        "port": "9443"
-    },
-    {
-        "domain": "t.b.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "www2.ine.com",
-        "port": "2096"
-    },
-    {
-        "domain": "shop.ine.com",
-        "port": "8880"
-    },
-    {
-        "domain": "workbooks.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "learn.ine.com",
-        "port": "8443"
-    },
-    {
-        "domain": "engage.b.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "dashboard.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "apparel.ine.com",
-        "port": "8080"
-    },
-    {
-        "domain": "api.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "www2.ine.com",
-        "port": "8880"
-    },
-    {
-        "domain": "learn.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "security.ine.com",
-        "port": "8443"
-    },
-    {
-        "domain": "1pass-scim.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "content-api.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "www2.ine.com",
-        "port": "2082"
-    },
-    {
-        "domain": "apparel.ine.com",
-        "port": "8880"
-    },
-    {
-        "domain": "calendar.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "checkout.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "forums.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "www.bootcamps.ine.com",
-        "port": "8880"
-    },
-    {
-        "domain": "www2.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "apparel.ine.com",
-        "port": "2082"
-    },
-    {
-        "domain": "www.bootcamps.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "rancher.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "statistics.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "showcase.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "uaa.development.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "assets.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "media1.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "dashboard.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "feedback.my.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "security.ine.com",
-        "port": "2082"
-    },
-    {
-        "domain": "shop.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "forum.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "feedback.my.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "legacy-community.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "compliance.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "admin.showcase.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "uaa.development.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "learn.ine.com",
-        "port": "8880"
-    },
-    {
-        "domain": "clicks.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "business2.staging.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "info.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "courses.assets.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "community.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "subscriptions.development.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "www.bootcamps.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "info.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "business2.development.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "learn.ine.com",
-        "port": "2095"
-    },
-    {
-        "domain": "inedid.az.demos.ine.com",
-        "port": "8172"
-    },
-    {
-        "domain": "community.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "www2.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "statistics.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "dashboard.staging.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "racks2.ine.com",
-        "port": "3333"
-    },
-    {
-        "domain": "shop.ine.com",
-        "port": "8080"
-    },
-    {
-        "domain": "get.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "my.development.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "inedid.az.demos.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "profiles.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "subscriptions.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "releases.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "www2.ine.com",
-        "port": "8443"
-    },
-    {
-        "domain": "compliance.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "www.showcase.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "www.bootcamps.ine.com",
-        "port": "2096"
-    },
-    {
-        "domain": "apparel.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "1pass-scim.ine.com",
+        "ip": "75.101.136.198",
         "port": "80"
     },
     {
         "domain": "assets.labs.ine.com",
+        "ip": "108.156.245.49",
+        "port": "80"
+    },
+    {
+        "domain": "api.ine.com",
+        "ip": "52.20.52.152",
+        "port": "80"
+    },
+    {
+        "domain": "community.ine.com",
+        "ip": "44.195.173.82",
         "port": "443"
     },
     {
-        "domain": "www.bootcamps.ine.com",
-        "port": "2095"
+        "domain": "subscriptions.development.ine.com",
+        "ip": "107.20.253.245",
+        "port": "443"
     },
     {
-        "domain": "shop.ine.com",
+        "domain": "s303.www.ine.com",
+        "ip": "54.231.139.120",
+        "port": "443"
+    },
+    {
+        "domain": "bid47mj.45160067m.email.ine.com",
+        "ip": "158.247.23.73",
+        "port": "80"
+    },
+    {
+        "domain": "events.ine.com",
+        "ip": "18.238.25.19",
+        "port": "443"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "18.235.194.11",
+        "port": "80"
+    },
+    {
+        "domain": "certs.ine.com",
+        "ip": "18.189.251.173",
+        "port": "443"
+    },
+    {
+        "domain": "courses.ine.com",
+        "ip": "44.210.9.177",
+        "port": "443"
+    },
+    {
+        "domain": "www2.ine.com",
+        "ip": "23.227.38.74",
         "port": "8443"
     },
     {
-        "domain": "my.ine.com",
+        "domain": "security.ine.com",
+        "ip": "141.193.213.11",
+        "port": "8443"
+    },
+    {
+        "domain": "uaa.ine.com",
+        "ip": "54.84.99.182",
+        "port": "80"
+    },
+    {
+        "domain": "assets.labs.ine.com",
+        "ip": "108.156.245.49",
+        "port": "443"
+    },
+    {
+        "domain": "clicks.ine.com",
+        "ip": "18.172.134.36",
+        "port": "80"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "34.239.220.209",
+        "port": "80"
+    },
+    {
+        "domain": "courses.ine.com",
+        "ip": "44.210.9.177",
         "port": "80"
     },
     {
         "domain": "checkout.ine.com",
+        "ip": "108.156.91.51",
         "port": "80"
     },
     {
-        "domain": "learn.ine.com",
-        "port": "2082"
+        "domain": "business2.ine.com",
+        "ip": "76.76.21.123",
+        "port": "443"
     },
     {
         "domain": "sonar.my.development.ine.com",
+        "ip": "13.32.87.61",
         "port": "80"
     },
     {
+        "domain": "uaa.ine.com",
+        "ip": "54.198.92.195",
+        "port": "443"
+    },
+    {
         "domain": "sonar.my.development.ine.com",
+        "ip": "13.32.87.61",
         "port": "443"
     },
     {
         "domain": "apparel.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2096"
+    },
+    {
+        "domain": "subscriptions.development.ine.com",
+        "ip": "52.206.44.185",
+        "port": "80"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "ip": "23.227.38.74",
+        "port": "8880"
+    },
+    {
+        "domain": "helpdesk.serviceportal.ine.com",
+        "ip": "54.230.18.123",
         "port": "443"
-    },
-    {
-        "domain": "legacy-community.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "workbooks.ine.com",
-        "port": "80"
     },
     {
         "domain": "security.ine.com",
-        "port": "80"
+        "ip": "141.193.213.10",
+        "port": "8080"
     },
     {
-        "domain": "calendar.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "certs.ine.com",
+        "domain": "courses.ine.com",
+        "ip": "50.16.97.52",
         "port": "80"
     },
     {
         "domain": "my.development.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "www.bootcamps.ine.com",
-        "port": "8443"
-    },
-    {
-        "domain": "security.ine.com",
-        "port": "8880"
-    },
-    {
-        "domain": "dashboard2.development.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "learn.ine.com",
-        "port": "8080"
-    },
-    {
-        "domain": "releases.ine.com",
+        "ip": "3.160.5.48",
         "port": "443"
     },
     {
         "domain": "try.ine.com",
+        "ip": "172.64.153.235",
         "port": "80"
     },
     {
-        "domain": "assets.labs.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "admin.showcase.ine.com",
+        "domain": "s303.www.ine.com",
+        "ip": "52.217.134.96",
         "port": "443"
     },
     {
-        "domain": "profiles.assets.ine.com",
+        "domain": "courses.ine.com",
+        "ip": "54.83.47.38",
         "port": "80"
     },
     {
-        "domain": "showcase.ine.com",
+        "domain": "community.ine.com",
+        "ip": "34.197.171.170",
         "port": "443"
     },
     {
-        "domain": "mail.ine.com",
-        "port": "80"
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.31",
+        "port": "2095"
     },
     {
         "domain": "security.ine.com",
+        "ip": "141.193.213.11",
         "port": "443"
     },
     {
-        "domain": "uaa.ine.com",
+        "domain": "rancher.ine.com",
+        "ip": "34.238.92.57",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "ip": "76.76.21.98",
+        "port": "443"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "18.238.25.21",
         "port": "80"
     },
     {
-        "domain": "racks.ine.com",
-        "port": "9443"
+        "domain": "get.ine.com",
+        "ip": "104.18.11.212",
+        "port": "80"
     },
     {
-        "domain": "certs.ine.com",
+        "domain": "uaa.development.ine.com",
+        "ip": "34.224.180.146",
         "port": "443"
     },
     {
-        "domain": "racks2.ine.com",
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.31",
         "port": "443"
     },
     {
-        "domain": "www.ine.com",
+        "domain": "engage.b.ine.com",
+        "ip": "18.204.241.84",
         "port": "443"
     },
     {
-        "domain": "shop.ine.com",
+        "domain": "s3.media1.ine.com",
+        "ip": "52.217.164.168",
         "port": "443"
     },
     {
-        "domain": "clicks.ine.com",
+        "domain": "www.bootcamps.ine.com",
+        "ip": "23.227.38.74",
+        "port": "8080"
+    },
+    {
+        "domain": "showcase.ine.com",
+        "ip": "216.239.32.21",
+        "port": "80"
+    },
+    {
+        "domain": "streaming.ine.com",
+        "ip": "3.168.40.51",
+        "port": "443"
+    },
+    {
+        "domain": "workbooks.ine.com",
+        "ip": "3.165.102.124",
         "port": "80"
     },
     {
         "domain": "t.b.ine.com",
+        "ip": "54.235.172.9",
+        "port": "443"
+    },
+    {
+        "domain": "events.ine.com",
+        "ip": "18.238.25.29",
+        "port": "443"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "18.238.25.111",
         "port": "80"
     },
     {
+        "domain": "profiles.ine.com",
+        "ip": "54.198.92.195",
+        "port": "443"
+    },
+    {
+        "domain": "business2.development.ine.com",
+        "ip": "76.76.21.93",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.staging.ine.com",
+        "ip": "76.76.21.98",
+        "port": "80"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "54.198.205.16",
+        "port": "80"
+    },
+    {
+        "domain": "www.ine.com",
+        "ip": "76.76.21.93",
+        "port": "80"
+    },
+    {
+        "domain": "profiles.ine.com",
+        "ip": "54.84.99.182",
+        "port": "443"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2095"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "18.238.25.78",
+        "port": "80"
+    },
+    {
+        "domain": "business2.development.ine.com",
+        "ip": "76.76.21.93",
+        "port": "80"
+    },
+    {
+        "domain": "www2.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2082"
+    },
+    {
         "domain": "api.ine.com",
+        "ip": "23.20.99.239",
+        "port": "443"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "107.20.199.178",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "ip": "76.76.21.98",
+        "port": "80"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.11",
+        "port": "2096"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.216.129.53",
+        "port": "80"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "18.238.25.21",
+        "port": "443"
+    },
+    {
+        "domain": "assets.ine.com",
+        "ip": "52.85.247.119",
+        "port": "443"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.217.197.200",
+        "port": "443"
+    },
+    {
+        "domain": "community.ine.com",
+        "ip": "18.204.241.84",
+        "port": "443"
+    },
+    {
+        "domain": "clicks.ine.com",
+        "ip": "18.172.134.98",
+        "port": "80"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.10",
+        "port": "8880"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.225",
+        "port": "8080"
+    },
+    {
+        "domain": "chef01.ine.com",
+        "ip": "52.71.19.199",
+        "port": "443"
+    },
+    {
+        "domain": "workbooks.ine.com",
+        "ip": "3.165.102.83",
+        "port": "443"
+    },
+    {
+        "domain": "www.ine.com",
+        "ip": "76.76.21.98",
+        "port": "80"
+    },
+    {
+        "domain": "pritunl.ine.com",
+        "ip": "54.163.253.84",
+        "port": "443"
+    },
+    {
+        "domain": "get.ine.com",
+        "ip": "104.18.11.212",
+        "port": "443"
+    },
+    {
+        "domain": "rancher.ine.com",
+        "ip": "44.212.137.210",
+        "port": "80"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "18.235.194.11",
+        "port": "443"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "18.238.25.112",
+        "port": "80"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.217.125.88",
+        "port": "443"
+    },
+    {
+        "domain": "feedback.my.ine.com",
+        "ip": "192.241.183.155",
+        "port": "80"
+    },
+    {
+        "domain": "forums.ine.com",
+        "ip": "162.159.138.78",
+        "port": "443"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.31",
+        "port": "8080"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "52.217.4.102",
+        "port": "80"
+    },
+    {
+        "domain": "pritunl.ine.com",
+        "ip": "54.163.253.84",
+        "port": "80"
+    },
+    {
+        "domain": "uaa.development.ine.com",
+        "ip": "107.20.253.245",
+        "port": "443"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "52.217.164.168",
+        "port": "80"
+    },
+    {
+        "domain": "uaa.development.ine.com",
+        "ip": "107.20.253.245",
+        "port": "80"
+    },
+    {
+        "domain": "helpdesk.serviceportal.ine.com",
+        "ip": "54.230.18.35",
+        "port": "80"
+    },
+    {
+        "domain": "subscriptions.ine.com",
+        "ip": "54.145.225.199",
+        "port": "80"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "107.20.199.178",
+        "port": "80"
+    },
+    {
+        "domain": "subscriptions.ine.com",
+        "ip": "54.145.225.199",
+        "port": "443"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "54.231.224.176",
+        "port": "443"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "34.239.220.209",
+        "port": "443"
+    },
+    {
+        "domain": "compliance.ine.com",
+        "ip": "104.18.41.248",
+        "port": "80"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.216.25.6",
+        "port": "80"
+    },
+    {
+        "domain": "pritunl.ine.com",
+        "ip": "34.206.234.208",
+        "port": "80"
+    },
+    {
+        "domain": "shop.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2096"
+    },
+    {
+        "domain": "sonar.my.development.ine.com",
+        "ip": "13.32.87.97",
+        "port": "443"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "52.217.4.102",
+        "port": "443"
+    },
+    {
+        "domain": "status.ine.com",
+        "ip": "142.132.149.97",
+        "port": "443"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.217.132.24",
+        "port": "443"
+    },
+    {
+        "domain": "assets.ine.com",
+        "ip": "52.85.247.44",
+        "port": "80"
+    },
+    {
+        "domain": "www.ine.com",
+        "ip": "76.76.21.241",
+        "port": "80"
+    },
+    {
+        "domain": "blog.ine.com",
+        "ip": "54.144.249.75",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.10",
+        "port": "8443"
+    },
+    {
+        "domain": "www2.ine.com",
+        "ip": "23.227.38.74",
+        "port": "8080"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "ip": "76.76.21.93",
+        "port": "443"
+    },
+    {
+        "domain": "helpdesk.serviceportal.ine.com",
+        "ip": "54.230.18.119",
+        "port": "443"
+    },
+    {
+        "domain": "my.development.ine.com",
+        "ip": "3.160.5.89",
+        "port": "443"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.216.245.70",
+        "port": "443"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "34.197.171.170",
+        "port": "80"
+    },
+    {
+        "domain": "workbooks.ine.com",
+        "ip": "3.165.102.25",
+        "port": "443"
+    },
+    {
+        "domain": "shop.ine.com",
+        "ip": "23.227.38.74",
+        "port": "443"
+    },
+    {
+        "domain": "get.ine.com",
+        "ip": "104.18.10.212",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.225",
+        "port": "2095"
+    },
+    {
+        "domain": "checkout.ine.com",
+        "ip": "108.156.91.69",
+        "port": "80"
+    },
+    {
+        "domain": "helpdesk.ine.com",
+        "ip": "3.165.181.19",
+        "port": "80"
+    },
+    {
+        "domain": "careers.ine.com",
+        "ip": "172.64.153.235",
+        "port": "443"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.216.245.70",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.31",
+        "port": "8443"
+    },
+    {
+        "domain": "subscriptions.development.ine.com",
+        "ip": "52.206.44.185",
+        "port": "443"
+    },
+    {
+        "domain": "sonar.my.development.ine.com",
+        "ip": "13.32.87.119",
+        "port": "80"
+    },
+    {
+        "domain": "rancher.ine.com",
+        "ip": "34.238.92.57",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard.staging.ine.com",
+        "ip": "76.76.21.61",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard2.development.ine.com",
+        "ip": "76.76.21.22",
+        "port": "443"
+    },
+    {
+        "domain": "info.ine.com",
+        "ip": "104.18.34.21",
+        "port": "443"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.217.119.24",
+        "port": "80"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.10",
+        "port": "443"
+    },
+    {
+        "domain": "try.ine.com",
+        "ip": "104.18.34.21",
+        "port": "80"
+    },
+    {
+        "domain": "helpdesk.ine.com",
+        "ip": "3.165.181.3",
+        "port": "443"
+    },
+    {
+        "domain": "sonar.my.development.ine.com",
+        "ip": "13.32.87.97",
+        "port": "80"
+    },
+    {
+        "domain": "members.ine.com",
+        "ip": "54.183.221.14",
+        "port": "80"
+    },
+    {
+        "domain": "helpdesk.ine.com",
+        "ip": "3.165.181.48",
+        "port": "443"
+    },
+    {
+        "domain": "ine.com",
+        "ip": "76.76.21.21",
+        "port": "80"
+    },
+    {
+        "domain": "careers.ine.com",
+        "ip": "172.64.153.235",
+        "port": "80"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.217.199.56",
+        "port": "80"
+    },
+    {
+        "domain": "business2.ine.com",
+        "ip": "76.76.21.142",
+        "port": "80"
+    },
+    {
+        "domain": "profiles.ine.com",
+        "ip": "54.84.99.182",
+        "port": "80"
+    },
+    {
+        "domain": "feedback.my.ine.com",
+        "ip": "192.241.183.155",
+        "port": "443"
+    },
+    {
+        "domain": "api.ine.com",
+        "ip": "35.168.208.95",
+        "port": "80"
+    },
+    {
+        "domain": "helpdesk.ine.com",
+        "ip": "3.165.181.19",
+        "port": "443"
+    },
+    {
+        "domain": "shop.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2082"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "34.197.171.170",
+        "port": "80"
+    },
+    {
+        "domain": "mail.ine.com",
+        "ip": "64.233.177.121",
+        "port": "80"
+    },
+    {
+        "domain": "rancher.ine.com",
+        "ip": "18.211.214.251",
+        "port": "80"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.217.224.248",
+        "port": "80"
+    },
+    {
+        "domain": "clicks.ine.com",
+        "ip": "18.172.134.36",
+        "port": "443"
+    },
+    {
+        "domain": "content-api.ine.com",
+        "ip": "44.206.12.128",
+        "port": "443"
+    },
+    {
+        "domain": "courses.ine.com",
+        "ip": "44.217.52.64",
+        "port": "443"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "18.204.241.84",
+        "port": "80"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "54.92.223.194",
+        "port": "80"
+    },
+    {
+        "domain": "subscriptions.ine.com",
+        "ip": "54.198.92.195",
+        "port": "80"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "ip": "23.227.38.74",
+        "port": "80"
+    },
+    {
+        "domain": "uaa.development.ine.com",
+        "ip": "34.224.180.146",
+        "port": "80"
+    },
+    {
+        "domain": "business2.development.ine.com",
+        "ip": "76.76.21.142",
+        "port": "80"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.216.212.32",
+        "port": "443"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "18.204.241.84",
+        "port": "443"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "18.235.194.11",
+        "port": "443"
+    },
+    {
+        "domain": "helpdesk.serviceportal.ine.com",
+        "ip": "54.230.18.108",
+        "port": "443"
+    },
+    {
+        "domain": "www2.ine.com",
+        "ip": "23.227.38.74",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.225",
+        "port": "443"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2095"
+    },
+    {
+        "domain": "uaa.development.ine.com",
+        "ip": "52.206.44.185",
+        "port": "80"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "34.237.38.233",
+        "port": "443"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.31",
+        "port": "80"
+    },
+    {
+        "domain": "content-api.ine.com",
+        "ip": "100.24.146.20",
+        "port": "80"
+    },
+    {
+        "domain": "profiles.ine.com",
+        "ip": "54.145.225.199",
+        "port": "443"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "54.231.166.72",
+        "port": "80"
+    },
+    {
+        "domain": "www2.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2095"
+    },
+    {
+        "domain": "inedid.az.demos.ine.com",
+        "ip": "20.49.104.5",
+        "port": "8172"
+    },
+    {
+        "domain": "business2.staging.ine.com",
+        "ip": "76.76.21.93",
+        "port": "80"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "54.235.172.9",
+        "port": "80"
+    },
+    {
+        "domain": "assets.ine.com",
+        "ip": "52.85.247.48",
+        "port": "443"
+    },
+    {
+        "domain": "clicks.ine.com",
+        "ip": "18.172.134.62",
+        "port": "80"
+    },
+    {
+        "domain": "business2.staging.ine.com",
+        "ip": "76.76.21.9",
+        "port": "443"
+    },
+    {
+        "domain": "events.ine.com",
+        "ip": "18.238.25.19",
+        "port": "80"
+    },
+    {
+        "domain": "community.ine.com",
+        "ip": "54.235.172.9",
+        "port": "80"
+    },
+    {
+        "domain": "showcase.ine.com",
+        "ip": "216.239.36.21",
+        "port": "443"
+    },
+    {
+        "domain": "helpdesk.ine.com",
+        "ip": "3.165.181.3",
+        "port": "80"
+    },
+    {
+        "domain": "streaming.ine.com",
+        "ip": "3.168.40.51",
+        "port": "80"
+    },
+    {
+        "domain": "www.ine.com",
+        "ip": "76.76.21.9",
+        "port": "443"
+    },
+    {
+        "domain": "workbooks.ine.com",
+        "ip": "3.165.102.83",
+        "port": "80"
+    },
+    {
+        "domain": "ine.com",
+        "ip": "76.76.21.21",
+        "port": "443"
+    },
+    {
+        "domain": "racks.ine.com",
+        "ip": "24.172.112.44",
+        "port": "3333"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "52.217.95.112",
+        "port": "80"
+    },
+    {
+        "domain": "showcase.ine.com",
+        "ip": "216.239.38.21",
+        "port": "80"
+    },
+    {
+        "domain": "community.ine.com",
+        "ip": "18.235.194.11",
+        "port": "443"
+    },
+    {
+        "domain": "uaa.development.ine.com",
+        "ip": "52.206.44.185",
+        "port": "443"
+    },
+    {
+        "domain": "showcase.ine.com",
+        "ip": "216.239.34.21",
+        "port": "80"
+    },
+    {
+        "domain": "assets.labs.ine.com",
+        "ip": "108.156.245.92",
+        "port": "443"
+    },
+    {
+        "domain": "api.ine.com",
+        "ip": "23.20.99.239",
+        "port": "80"
+    },
+    {
+        "domain": "info.ine.com",
+        "ip": "104.18.34.21",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.225",
+        "port": "8880"
+    },
+    {
+        "domain": "mail.ine.com",
+        "ip": "64.233.177.121",
+        "port": "443"
+    },
+    {
+        "domain": "clicks.ine.com",
+        "ip": "18.172.134.62",
+        "port": "443"
+    },
+    {
+        "domain": "uaa.ine.com",
+        "ip": "54.145.225.199",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard.development.ine.com",
+        "ip": "76.76.21.93",
+        "port": "443"
+    },
+    {
+        "domain": "www.ine.com",
+        "ip": "76.76.21.9",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.31",
+        "port": "2096"
+    },
+    {
+        "domain": "streaming.ine.com",
+        "ip": "3.168.40.93",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.10",
+        "port": "2082"
+    },
+    {
+        "domain": "dashboard.development.ine.com",
+        "ip": "76.76.21.98",
+        "port": "443"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "34.197.171.170",
         "port": "443"
     },
     {
         "domain": "media1.ine.com",
+        "ip": "52.217.226.32",
+        "port": "80"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.216.109.69",
         "port": "443"
     },
     {
-        "domain": "racks2.ine.com",
-        "port": "8443"
+        "domain": "courses.ine.com",
+        "ip": "3.208.52.246",
+        "port": "443"
+    },
+    {
+        "domain": "streaming.ine.com",
+        "ip": "3.168.40.84",
+        "port": "443"
+    },
+    {
+        "domain": "members.ine.com",
+        "ip": "52.9.206.4",
+        "port": "80"
     },
     {
         "domain": "shop.ine.com",
+        "ip": "23.227.38.74",
+        "port": "8880"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.31",
+        "port": "8880"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2082"
+    },
+    {
+        "domain": "streaming.ine.com",
+        "ip": "3.168.40.84",
+        "port": "80"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.216.251.134",
+        "port": "80"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.216.52.32",
+        "port": "80"
+    },
+    {
+        "domain": "releases.ine.com",
+        "ip": "35.237.213.8",
+        "port": "443"
+    },
+    {
+        "domain": "legacy-community.ine.com",
+        "ip": "184.105.99.43",
+        "port": "443"
+    },
+    {
+        "domain": "releases.ine.com",
+        "ip": "35.237.213.8",
+        "port": "80"
+    },
+    {
+        "domain": "my.development.ine.com",
+        "ip": "3.160.5.48",
+        "port": "80"
+    },
+    {
+        "domain": "compliance.ine.com",
+        "ip": "172.64.146.8",
+        "port": "443"
+    },
+    {
+        "domain": "events.ine.com",
+        "ip": "18.238.25.29",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.31",
+        "port": "2082"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.216.179.205",
+        "port": "80"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "35.173.209.127",
+        "port": "443"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.225",
+        "port": "2096"
+    },
+    {
+        "domain": "courses.ine.com",
+        "ip": "54.83.47.38",
+        "port": "443"
+    },
+    {
+        "domain": "chef01.ine.com",
+        "ip": "52.71.19.199",
+        "port": "80"
+    },
+    {
+        "domain": "checkout.ine.com",
+        "ip": "108.156.91.69",
+        "port": "443"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.217.172.224",
+        "port": "443"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "ip": "23.227.38.74",
+        "port": "80"
+    },
+    {
+        "domain": "forum.ine.com",
+        "ip": "162.159.138.78",
+        "port": "80"
+    },
+    {
+        "domain": "api.ine.com",
+        "ip": "52.20.52.152",
+        "port": "443"
+    },
+    {
+        "domain": "www.ine.com",
+        "ip": "76.76.21.241",
+        "port": "443"
+    },
+    {
+        "domain": "members.ine.com",
+        "ip": "54.183.221.14",
+        "port": "443"
+    },
+    {
+        "domain": "1pass-scim.ine.com",
+        "ip": "35.227.112.188",
+        "port": "80"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.216.25.14",
+        "port": "80"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.217.0.69",
+        "port": "80"
+    },
+    {
+        "domain": "business2.staging.ine.com",
+        "ip": "76.76.21.93",
+        "port": "443"
+    },
+    {
+        "domain": "helpdesk.ine.com",
+        "ip": "3.165.181.48",
+        "port": "80"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.216.179.205",
+        "port": "443"
+    },
+    {
+        "domain": "rancher.ine.com",
+        "ip": "44.212.137.210",
+        "port": "443"
+    },
+    {
+        "domain": "inedid.az.demos.ine.com",
+        "ip": "20.49.104.5",
+        "port": "80"
+    },
+    {
+        "domain": "www2.ine.com",
+        "ip": "23.227.38.74",
+        "port": "8880"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "18.204.241.84",
+        "port": "80"
+    },
+    {
+        "domain": "business2.staging.ine.com",
+        "ip": "76.76.21.9",
+        "port": "80"
+    },
+    {
+        "domain": "legacy-community.ine.com",
+        "ip": "184.105.99.43",
+        "port": "80"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "54.231.137.240",
+        "port": "443"
+    },
+    {
+        "domain": "showcase.ine.com",
+        "ip": "216.239.38.21",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.development.ine.com",
+        "ip": "76.76.21.61",
+        "port": "443"
+    },
+    {
+        "domain": "streaming.ine.com",
+        "ip": "3.168.40.93",
+        "port": "80"
+    },
+    {
+        "domain": "community.ine.com",
+        "ip": "3.88.122.180",
+        "port": "80"
+    },
+    {
+        "domain": "courses.ine.com",
+        "ip": "44.217.52.64",
+        "port": "80"
+    },
+    {
+        "domain": "sonar.my.development.ine.com",
+        "ip": "13.32.87.93",
+        "port": "80"
+    },
+    {
+        "domain": "content-api.ine.com",
+        "ip": "44.206.12.128",
+        "port": "80"
+    },
+    {
+        "domain": "shop.ine.com",
+        "ip": "23.227.38.74",
+        "port": "8080"
+    },
+    {
+        "domain": "business2.development.ine.com",
+        "ip": "76.76.21.142",
+        "port": "443"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.217.197.200",
+        "port": "80"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "ip": "23.227.38.74",
+        "port": "8443"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "54.235.172.9",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.11",
+        "port": "8880"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "ip": "76.76.21.9",
+        "port": "80"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.10",
+        "port": "2096"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.225",
+        "port": "80"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "52.216.129.237",
+        "port": "80"
+    },
+    {
+        "domain": "helpdesk.ine.com",
+        "ip": "3.165.181.29",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.11",
+        "port": "2082"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.217.226.32",
+        "port": "443"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "ip": "23.227.38.74",
+        "port": "8880"
+    },
+    {
+        "domain": "assets.labs.ine.com",
+        "ip": "108.156.245.41",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard.development.ine.com",
+        "ip": "76.76.21.9",
+        "port": "80"
+    },
+    {
+        "domain": "forum.ine.com",
+        "ip": "162.159.128.79",
+        "port": "443"
+    },
+    {
+        "domain": "www.ine.com",
+        "ip": "76.76.21.93",
+        "port": "443"
+    },
+    {
+        "domain": "www2.ine.com",
+        "ip": "23.227.38.74",
+        "port": "443"
+    },
+    {
+        "domain": "compliance.ine.com",
+        "ip": "172.64.146.8",
+        "port": "80"
+    },
+    {
+        "domain": "shop.ine.com",
+        "ip": "23.227.38.74",
+        "port": "80"
+    },
+    {
+        "domain": "status.ine.com",
+        "ip": "142.132.149.97",
+        "port": "80"
+    },
+    {
+        "domain": "events.ine.com",
+        "ip": "18.238.25.45",
+        "port": "80"
+    },
+    {
+        "domain": "streaming.ine.com",
+        "ip": "3.168.40.41",
+        "port": "80"
+    },
+    {
+        "domain": "api.ine.com",
+        "ip": "52.2.98.51",
+        "port": "443"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.216.222.16",
+        "port": "80"
+    },
+    {
+        "domain": "assets.ine.com",
+        "ip": "52.85.247.118",
+        "port": "443"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.216.25.6",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.development.ine.com",
+        "ip": "76.76.21.93",
+        "port": "80"
+    },
+    {
+        "domain": "assets.ine.com",
+        "ip": "52.85.247.44",
+        "port": "443"
+    },
+    {
+        "domain": "assets.ine.com",
+        "ip": "52.85.247.48",
+        "port": "80"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "18.238.25.78",
+        "port": "443"
+    },
+    {
+        "domain": "subscriptions.development.ine.com",
+        "ip": "34.224.180.146",
+        "port": "80"
+    },
+    {
+        "domain": "compliance.ine.com",
+        "ip": "104.18.41.248",
+        "port": "443"
+    },
+    {
+        "domain": "helpdesk.serviceportal.ine.com",
+        "ip": "54.230.18.35",
+        "port": "443"
+    },
+    {
+        "domain": "business2.staging.ine.com",
+        "ip": "76.76.21.241",
+        "port": "80"
+    },
+    {
+        "domain": "profiles.ine.com",
+        "ip": "54.145.225.199",
+        "port": "80"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.217.125.88",
+        "port": "80"
+    },
+    {
+        "domain": "www.ine.com",
+        "ip": "76.76.21.98",
+        "port": "443"
+    },
+    {
+        "domain": "calendar.ine.com",
+        "ip": "172.217.1.115",
+        "port": "443"
+    },
+    {
+        "domain": "helpdesk.serviceportal.ine.com",
+        "ip": "54.230.18.108",
+        "port": "80"
+    },
+    {
+        "domain": "events.ine.com",
+        "ip": "18.238.25.8",
+        "port": "443"
+    },
+    {
+        "domain": "certs.ine.com",
+        "ip": "3.139.180.21",
+        "port": "443"
+    },
+    {
+        "domain": "showcase.ine.com",
+        "ip": "216.239.34.21",
+        "port": "443"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.217.132.24",
+        "port": "80"
+    },
+    {
+        "domain": "content-api.ine.com",
+        "ip": "34.193.230.220",
+        "port": "443"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "16.182.109.216",
+        "port": "80"
+    },
+    {
+        "domain": "community.ine.com",
+        "ip": "18.204.241.84",
+        "port": "80"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "54.231.166.72",
+        "port": "443"
+    },
+    {
+        "domain": "courses.ine.com",
+        "ip": "3.208.52.246",
+        "port": "80"
+    },
+    {
+        "domain": "business2.ine.com",
+        "ip": "76.76.21.123",
+        "port": "80"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.10",
+        "port": "2095"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "52.216.129.237",
+        "port": "443"
+    },
+    {
+        "domain": "shop.ine.com",
+        "ip": "23.227.38.74",
+        "port": "8443"
+    },
+    {
+        "domain": "info.ine.com",
+        "ip": "172.64.153.235",
+        "port": "443"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "3.88.122.180",
+        "port": "443"
+    },
+    {
+        "domain": "courses.ine.com",
+        "ip": "75.101.136.198",
+        "port": "443"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "35.173.209.127",
+        "port": "80"
+    },
+    {
+        "domain": "api.ine.com",
+        "ip": "35.168.208.95",
+        "port": "443"
+    },
+    {
+        "domain": "checkout.ine.com",
+        "ip": "108.156.91.74",
+        "port": "443"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "3.88.122.180",
+        "port": "443"
+    },
+    {
+        "domain": "updates.ine.com",
+        "ip": "23.21.86.19",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "ip": "76.76.21.93",
+        "port": "80"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.216.129.53",
+        "port": "443"
+    },
+    {
+        "domain": "assets.labs.ine.com",
+        "ip": "108.156.245.41",
+        "port": "443"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "ip": "23.227.38.74",
+        "port": "443"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "3.88.122.180",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard2.development.ine.com",
+        "ip": "76.76.21.22",
+        "port": "80"
+    },
+    {
+        "domain": "racks.ine.com",
+        "ip": "24.172.112.44",
+        "port": "443"
+    },
+    {
+        "domain": "info.ine.com",
+        "ip": "172.64.153.235",
+        "port": "80"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.216.222.16",
+        "port": "443"
+    },
+    {
+        "domain": "community.ine.com",
+        "ip": "44.195.173.82",
+        "port": "80"
+    },
+    {
+        "domain": "profiles.ine.com",
+        "ip": "54.198.92.195",
+        "port": "80"
+    },
+    {
+        "domain": "assets.labs.ine.com",
+        "ip": "108.156.245.18",
+        "port": "443"
+    },
+    {
+        "domain": "try.ine.com",
+        "ip": "104.18.34.21",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.11",
+        "port": "8080"
+    },
+    {
+        "domain": "business2.staging.ine.com",
+        "ip": "76.76.21.98",
+        "port": "443"
+    },
+    {
+        "domain": "my.development.ine.com",
+        "ip": "3.160.5.89",
+        "port": "80"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "54.198.205.16",
+        "port": "443"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.217.0.69",
+        "port": "443"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "52.217.95.112",
+        "port": "443"
+    },
+    {
+        "domain": "uaa.ine.com",
+        "ip": "54.145.225.199",
+        "port": "443"
+    },
+    {
+        "domain": "uaa.ine.com",
+        "ip": "54.84.99.182",
+        "port": "443"
+    },
+    {
+        "domain": "sonar.my.development.ine.com",
+        "ip": "13.32.87.93",
+        "port": "443"
+    },
+    {
+        "domain": "uaa.ine.com",
+        "ip": "54.198.92.195",
+        "port": "80"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "54.231.137.240",
+        "port": "80"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2082"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.216.212.32",
+        "port": "80"
+    },
+    {
+        "domain": "courses.ine.com",
+        "ip": "50.16.97.52",
+        "port": "443"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "54.235.172.9",
+        "port": "80"
+    },
+    {
+        "domain": "content-api.ine.com",
+        "ip": "100.24.146.20",
+        "port": "443"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "18.238.25.111",
+        "port": "443"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.217.224.248",
+        "port": "443"
+    },
+    {
+        "domain": "try.ine.com",
+        "ip": "172.64.153.235",
+        "port": "443"
+    },
+    {
+        "domain": "subscriptions.ine.com",
+        "ip": "54.84.99.182",
+        "port": "80"
+    },
+    {
+        "domain": "statistics.ine.com",
+        "ip": "54.92.223.194",
+        "port": "443"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.216.161.253",
+        "port": "80"
+    },
+    {
+        "domain": "showcase.ine.com",
+        "ip": "216.239.32.21",
+        "port": "443"
+    },
+    {
+        "domain": "workbooks.ine.com",
+        "ip": "3.165.102.31",
+        "port": "443"
+    },
+    {
+        "domain": "clicks.ine.com",
+        "ip": "18.172.134.88",
+        "port": "80"
+    },
+    {
+        "domain": "shop.ine.com",
+        "ip": "23.227.38.74",
         "port": "2095"
     },
     {
         "domain": "blog.ine.com",
+        "ip": "3.226.50.102",
         "port": "443"
-    },
-    {
-        "domain": "rentals.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "learn.ine.com",
-        "port": "2096"
     },
     {
         "domain": "rancher.ine.com",
+        "ip": "18.211.214.251",
+        "port": "443"
+    },
+    {
+        "domain": "showcase.ine.com",
+        "ip": "216.239.36.21",
         "port": "80"
     },
     {
-        "domain": "bid47mj.45160067m.email.ine.com",
+        "domain": "s303.www.ine.com",
+        "ip": "52.217.134.96",
         "port": "80"
     },
     {
-        "domain": "profiles.assets.ine.com",
+        "domain": "clicks.ine.com",
+        "ip": "18.172.134.88",
         "port": "443"
     },
     {
-        "domain": "shop.ine.com",
-        "port": "2096"
-    },
-    {
-        "domain": "profiles.ine.com",
+        "domain": "community.ine.com",
+        "ip": "3.88.122.180",
         "port": "443"
     },
     {
-        "domain": "courses.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "www.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "s3.www.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "apparel.ine.com",
-        "port": "2095"
-    },
-    {
-        "domain": "careers.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "forum.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "engage.b.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "apparel.ine.com",
-        "port": "2096"
-    },
-    {
-        "domain": "security.ine.com",
-        "port": "2095"
-    },
-    {
-        "domain": "forums.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "www2.ine.com",
-        "port": "8080"
-    },
-    {
-        "domain": "rentals.ine.com",
-        "port": "443"
-    },
-    {
-        "domain": "updates.ine.com",
+        "domain": "s3.media1.ine.com",
+        "ip": "54.231.168.32",
         "port": "80"
     },
     {
         "domain": "dashboard.staging.ine.com",
-        "port": "80"
-    },
-    {
-        "domain": "apparel.ine.com",
-        "port": "8443"
-    },
-    {
-        "domain": "racks.ine.com",
-        "port": "3333"
-    },
-    {
-        "domain": "www.bootcamps.ine.com",
-        "port": "2082"
-    },
-    {
-        "domain": "try.ine.com",
+        "ip": "76.76.21.61",
         "port": "443"
     },
     {
-        "domain": "shop.ine.com",
-        "port": "2082"
+        "domain": "dashboard.development.ine.com",
+        "ip": "76.76.21.9",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.development.ine.com",
+        "ip": "76.76.21.61",
+        "port": "80"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.216.109.69",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard2.development.ine.com",
+        "ip": "76.76.21.93",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.10",
+        "port": "80"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "3.88.122.180",
+        "port": "80"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "54.231.168.32",
+        "port": "443"
+    },
+    {
+        "domain": "checkout.ine.com",
+        "ip": "108.156.91.39",
+        "port": "443"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "54.231.162.120",
+        "port": "80"
+    },
+    {
+        "domain": "updates.ine.com",
+        "ip": "23.21.86.19",
+        "port": "443"
+    },
+    {
+        "domain": "s303.www.ine.com",
+        "ip": "52.217.172.224",
+        "port": "80"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "44.195.173.82",
+        "port": "443"
+    },
+    {
+        "domain": "careers.ine.com",
+        "ip": "104.18.34.21",
+        "port": "80"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "52.216.25.14",
+        "port": "443"
     },
     {
         "domain": "www2.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2096"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "44.195.173.82",
+        "port": "80"
+    },
+    {
+        "domain": "inedid.az.demos.ine.com",
+        "ip": "20.49.104.5",
+        "port": "443"
+    },
+    {
+        "domain": "racks.ine.com",
+        "ip": "24.172.112.44",
+        "port": "8443"
+    },
+    {
+        "domain": "business2.staging.ine.com",
+        "ip": "76.76.21.241",
+        "port": "443"
+    },
+    {
+        "domain": "t.b.ine.com",
+        "ip": "18.235.194.11",
+        "port": "80"
+    },
+    {
+        "domain": "members.ine.com",
+        "ip": "52.9.206.4",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.11",
         "port": "2095"
     },
     {
+        "domain": "api.ine.com",
+        "ip": "52.2.98.51",
+        "port": "80"
+    },
+    {
         "domain": "content-api.ine.com",
+        "ip": "34.193.230.220",
+        "port": "80"
+    },
+    {
+        "domain": "careers.ine.com",
+        "ip": "104.18.34.21",
+        "port": "443"
+    },
+    {
+        "domain": "forums.ine.com",
+        "ip": "162.159.138.78",
+        "port": "80"
+    },
+    {
+        "domain": "community.ine.com",
+        "ip": "18.235.194.11",
+        "port": "80"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.225",
+        "port": "2082"
+    },
+    {
+        "domain": "streaming.ine.com",
+        "ip": "3.168.40.41",
+        "port": "443"
+    },
+    {
+        "domain": "checkout.ine.com",
+        "ip": "108.156.91.39",
+        "port": "80"
+    },
+    {
+        "domain": "workbooks.ine.com",
+        "ip": "3.165.102.25",
+        "port": "80"
+    },
+    {
+        "domain": "1pass-scim.ine.com",
+        "ip": "35.227.112.188",
+        "port": "443"
+    },
+    {
+        "domain": "business2.ine.com",
+        "ip": "76.76.21.142",
+        "port": "443"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "18.238.25.112",
+        "port": "443"
+    },
+    {
+        "domain": "security.ine.com",
+        "ip": "141.193.213.11",
+        "port": "80"
+    },
+    {
+        "domain": "workbooks.ine.com",
+        "ip": "3.165.102.124",
+        "port": "443"
+    },
+    {
+        "domain": "community.ine.com",
+        "ip": "34.197.171.170",
+        "port": "80"
+    },
+    {
+        "domain": "forums.ine.com",
+        "ip": "162.159.128.79",
+        "port": "443"
+    },
+    {
+        "domain": "media1.ine.com",
+        "ip": "16.182.109.216",
+        "port": "443"
+    },
+    {
+        "domain": "apparel.ine.com",
+        "ip": "23.227.38.74",
+        "port": "443"
+    },
+    {
+        "domain": "get.ine.com",
+        "ip": "104.18.10.212",
+        "port": "443"
+    },
+    {
+        "domain": "pritunl.ine.com",
+        "ip": "34.206.234.208",
+        "port": "443"
+    },
+    {
+        "domain": "assets.ine.com",
+        "ip": "52.85.247.118",
         "port": "80"
     },
     {
         "domain": "www.bootcamps.ine.com",
-        "port": "8080"
+        "ip": "23.227.38.74",
+        "port": "8443"
+    },
+    {
+        "domain": "assets.labs.ine.com",
+        "ip": "108.156.245.18",
+        "port": "80"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "44.195.173.82",
+        "port": "443"
+    },
+    {
+        "domain": "forums.ine.com",
+        "ip": "162.159.128.79",
+        "port": "80"
+    },
+    {
+        "domain": "certs.ine.com",
+        "ip": "18.189.251.173",
+        "port": "80"
+    },
+    {
+        "domain": "business2.staging.ine.com",
+        "ip": "76.76.21.98",
+        "port": "80"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "54.231.162.120",
+        "port": "443"
+    },
+    {
+        "domain": "my.development.ine.com",
+        "ip": "3.160.5.71",
+        "port": "443"
+    },
+    {
+        "domain": "forum.ine.com",
+        "ip": "162.159.138.78",
+        "port": "443"
+    },
+    {
+        "domain": "my.development.ine.com",
+        "ip": "3.160.5.62",
+        "port": "80"
+    },
+    {
+        "domain": "sonar.my.development.ine.com",
+        "ip": "13.32.87.119",
+        "port": "443"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.217.199.56",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.staging.ine.com",
+        "ip": "76.76.21.98",
+        "port": "443"
+    },
+    {
+        "domain": "learn.ine.com",
+        "ip": "199.60.103.225",
+        "port": "8443"
+    },
+    {
+        "domain": "subscriptions.development.ine.com",
+        "ip": "34.224.180.146",
+        "port": "443"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.216.251.134",
+        "port": "443"
+    },
+    {
+        "domain": "my.development.ine.com",
+        "ip": "3.160.5.71",
+        "port": "80"
+    },
+    {
+        "domain": "events.ine.com",
+        "ip": "18.238.25.45",
+        "port": "443"
+    },
+    {
+        "domain": "events.ine.com",
+        "ip": "18.238.25.8",
+        "port": "80"
+    },
+    {
+        "domain": "workbooks.ine.com",
+        "ip": "3.165.102.31",
+        "port": "80"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "34.197.171.170",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "ip": "76.76.21.9",
+        "port": "443"
+    },
+    {
+        "domain": "s3.www.ine.com",
+        "ip": "52.216.161.253",
+        "port": "443"
+    },
+    {
+        "domain": "www.bootcamps.ine.com",
+        "ip": "23.227.38.74",
+        "port": "2096"
+    },
+    {
+        "domain": "dashboard2.development.ine.com",
+        "ip": "76.76.21.93",
+        "port": "80"
+    },
+    {
+        "domain": "checkout.ine.com",
+        "ip": "108.156.91.74",
+        "port": "80"
+    },
+    {
+        "domain": "s3.media1.ine.com",
+        "ip": "54.231.224.176",
+        "port": "80"
+    },
+    {
+        "domain": "engage.b.ine.com",
+        "ip": "44.195.173.82",
+        "port": "80"
     }
 ]
