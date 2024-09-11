@@ -99,7 +99,7 @@
             "domain": "dashboard.ine.com"
         },
         {
-            "file": "https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
+            "file": "https:/dashboard.staging.ine.com/static/js/2.9a2c07b4.chunk.js",
             "vulnerabilities": [
                 {
                     "moment.js 2.29.1 has known vulnerabilities": "severity: high",
@@ -110,7 +110,7 @@
             "domain": "dashboard.staging.ine.com"
         },
         {
-            "file": "https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
+            "file": "https:/dashboard.staging.ine.com/static/js/2.9a2c07b4.chunk.js",
             "vulnerabilities": [
                 {
                     "axios 0.21.4 has known vulnerabilities": "severity: medium",
@@ -121,7 +121,7 @@
             "domain": "dashboard.staging.ine.com"
         },
         {
-            "file": "https:/dashboard.staging.ine.com/static/js/2.ec3dd9eb.chunk.js",
+            "file": "https:/dashboard.staging.ine.com/static/js/2.9a2c07b4.chunk.js",
             "vulnerabilities": [
                 {
                     "ua-parser-js 0.7.31 has known vulnerabilities": "severity: high",
