@@ -1,12 +1,42 @@
 [
     {
-        "domain": "ine.com",
-        "ip": "76.76.21.21",
+        "domain": "my.ine.com",
+        "ip": "99.84.252.31",
+        "port": "80"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "99.84.252.124",
+        "port": "80"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "99.84.252.31",
         "port": "443"
     },
     {
-        "domain": "ine.com",
-        "ip": "76.76.21.21",
+        "domain": "my.ine.com",
+        "ip": "99.84.252.3",
+        "port": "80"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "99.84.252.11",
+        "port": "443"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "99.84.252.124",
+        "port": "443"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "99.84.252.3",
+        "port": "443"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "99.84.252.11",
         "port": "80"
     }
 ]
