@@ -1,42 +1,72 @@
 [
     {
         "domain": "my.ine.com",
-        "ip": "99.84.252.31",
+        "ip": "65.8.161.50",
         "port": "80"
     },
     {
-        "domain": "my.ine.com",
-        "ip": "99.84.252.124",
-        "port": "80"
-    },
-    {
-        "domain": "my.ine.com",
-        "ip": "99.84.252.31",
+        "domain": "dashboard.ine.com",
+        "ip": "76.76.21.61",
         "port": "443"
     },
     {
         "domain": "my.ine.com",
-        "ip": "99.84.252.3",
+        "ip": "65.8.161.50",
+        "port": "443"
+    },
+    {
+        "domain": "ine.com",
+        "ip": "76.76.21.21",
+        "port": "443"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "65.8.161.68",
         "port": "80"
     },
     {
         "domain": "my.ine.com",
-        "ip": "99.84.252.11",
+        "ip": "65.8.161.68",
         "port": "443"
     },
     {
         "domain": "my.ine.com",
-        "ip": "99.84.252.124",
-        "port": "443"
-    },
-    {
-        "domain": "my.ine.com",
-        "ip": "99.84.252.3",
-        "port": "443"
-    },
-    {
-        "domain": "my.ine.com",
-        "ip": "99.84.252.11",
+        "ip": "65.8.161.40",
         "port": "80"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "ip": "76.76.21.164",
+        "port": "80"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "65.8.161.36",
+        "port": "443"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "ip": "76.76.21.61",
+        "port": "80"
+    },
+    {
+        "domain": "ine.com",
+        "ip": "76.76.21.21",
+        "port": "80"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "65.8.161.40",
+        "port": "443"
+    },
+    {
+        "domain": "my.ine.com",
+        "ip": "65.8.161.36",
+        "port": "80"
+    },
+    {
+        "domain": "dashboard.ine.com",
+        "ip": "76.76.21.164",
+        "port": "443"
     }
 ]
